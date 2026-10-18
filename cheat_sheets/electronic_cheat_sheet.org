@@ -1,0 +1,10 @@
+#+TITLE: electronic cheat sheet
+#+DESCRIPTION: html exported from org file  tutorial: https://www.youtube.com/watch?v=LS0JMOdQw-s&t=254s https://www.theodinproject.com/  latex-previews-shortcut C-u-c-x-l  export-image toc:dvipng
+#+AUTHOR: Muyang Lyu
+#+EXPORT_FILE_NAME: 
+#+LANGUAGE: en
+#+OPTIONS: num:nil toc:t tex:t
+#+STARTUP: latexpreview
+#+HTML_MATHJAX:
+
+Inline formula: \(E = mc^2\).
